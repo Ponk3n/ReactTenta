@@ -5,9 +5,12 @@ import './shared/global/global.css'
 
 function App() {
 	return (
+
 		<Routes>
 			<Navigation />
 		</Routes>
+
+
 	)
 }
 
